@@ -16,14 +16,14 @@ The size of the site is calculated by adding up the file size of html, css, js, 
 
     java -cp .:jsoup.jar Mastaphora http://google.com 0
     
-    arg[0] = site, the root site to start your crawl on
-    arg[1] = linkDepth, the depth to crawl from the root. passing in 0 will crawl the current site. 
+arg[0] = site, the root site to start your crawl on
+arg[1] = linkDepth, the depth to crawl from the root. passing in 0 will crawl the current site. 
     
 ## Example
 
     java -cp .:jsoup.jar Mastaphora http://google.com 1
     
-    Mastaphora will find the size of Google and all external URLs on Google.
+Mastaphora will find the size of Google and all external URLs on Google.
     
 ## Heads Up
 
