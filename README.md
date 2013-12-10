@@ -41,3 +41,7 @@ Eg. It took me 45+ minutes to crawl Facebook with a link depth of 4.
 ## License
 
 The MIT Licnese, do as you please :) 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pbojinov/mastaphora/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
